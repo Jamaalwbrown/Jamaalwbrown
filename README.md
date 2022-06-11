@@ -4,19 +4,19 @@
 <br>
 
 <p align="center">
-<a href="https://ashleydunnaway.com" target="_blank">
+<a href="https://jamaalbrown.me/" target="_blank">
 <img src="https://img.shields.io/badge/Personal_Portfolio-032a5d??style=plastic"/>
 </a>
 <a href="https://www.codewars.com/users/jbrown09" target="_blank">
 <img src="https://img.shields.io/badge/CodeWars-06809f??style=plastic&logo=codewars"/>
 </a>
-<a href="https://twitter.com/dunntherightway" target="_blank">
+<a href="https://twitter.com/jamaalbro90" target="_blank">
 <img src="https://img.shields.io/badge/@jamaalbro90-032a5d??style=plastic&logo=twitter"/>
 </a>
 <a href="www.linkedin.com/in/jamaal-brown-34531067" target="_blank">
 <img src="https://img.shields.io/badge/Jamaal_Brown-06809f??style=plastic&logo=linkedin"/>
 </a>
-<a href="mailto:adunnaway93@gmail.com" target="_blank">
+<a href="mailto:jamaalbro09@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/jamaalbro09@gmail.com-032a5d??style=plastic"/>
 </a>
 </p>
@@ -54,7 +54,7 @@
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Code-032a5d??style=plastic&logo=github"/>
 </a>  
-<a href="https://artistbiosearch.netlify.app/" target="_blank">
+<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
 </a>
 </p>
@@ -66,10 +66,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jamaalwbrown&theme=blueberry_duo)](https://git.io/streak-stats" alt="jamaalwbrown">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Jamaalwbrown&theme=prussian&show_icons=true)](https://git.io/streak-stats" alt="jamaalwbrown">
 </td>
 <td width="50%">
- <img src="https://github-readme-stats.vercel.app/api?username=jamaalwbrown)](https://github.com/jamaalwbrown/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=Jamaalwbrown&theme=prussian&show_icons=true)](https://github.com/jamaalwbrown/github-readme-stats">
 </table>
 </div>
 

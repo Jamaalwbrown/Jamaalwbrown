@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cover.png" alt="Jamaal Brown" style="width: 100%" />
+  <img src="cover3.png" alt="Jamaal Brown" style="width: 100%" />
 </div>
 <br>
 
@@ -30,7 +30,7 @@
 <h3 align="center" color="white">Personal Portfolio</h3>
 <div align="center" >  
 <a href='https://jamaalbrown.me/'>
-<img src="#" alt="Personal Portfolio" width="100%" />
+<img src="Portfolio.gif" alt="Personal Portfolio" width="100%" />
 </a>
 <br>
 <br>

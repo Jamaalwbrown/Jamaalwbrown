@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - View artist's biography by searching the artist's name. Data rendered by TheAudioDB API.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong></p>
 </div>
 </table>
 

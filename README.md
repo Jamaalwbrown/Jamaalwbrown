@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Jamaal-Brown.png" alt="Jamaal Brown" style="width: 100%" />
+  <img src="Jamaal-Brown-Cover-Photo.png" alt="Jamaal Brown" style="width: 100%" />
 </div>
 <br>
 

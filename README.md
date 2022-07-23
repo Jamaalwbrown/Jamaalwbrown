@@ -43,22 +43,22 @@
 </div>  
   
 <td width="50%">
-<h3 align="center" color="white">API Brewery and Cidery Search</h3>
+<h3 align="center" color="white">Find My Brewery</h3>
 <div align="center" >  
-<a href='#'>
-<img src="#" alt="Brewery and Cidery Search App" width="100%" />
+<a href='https://find-brewery.netlify.app/'>
+<img src="brewery-project.gif" alt="Find My Brewery" width="100%" />
 </a>
 <br>
 <br>
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/Jamaalwbrown/Brewery-Finder" target="_blank">
 <img src="https://img.shields.io/badge/Code-032a5d??style=plastic&logo=github"/>
 </a>  
-<a href="#" target="_blank">
+<a href="https://find-brewery.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong></p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - An application that allows the user to see breweries and their information from the selected state and city</p>
 </div>
 </table>
 

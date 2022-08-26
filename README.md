@@ -22,7 +22,7 @@
 </p>
 <p align="center">Full Stack Software Engineer based in Houston, TX</p>
 
-<h2 align="center">Projects </h2>
+<h2 align="center">Projects & Presentations</h2>
 <div align="center">
 <table>
 <tr>
@@ -59,6 +59,23 @@
 </a>
 </p>
 <p><strong>JavaScript, CSS3, HTML5</strong> - An application that allows the user to see breweries and their information from the selected state and city</p>
+</div>
+
+<tr>
+<td width="50%">
+<h3 align="center" color="white">MVC Presentation</h3>
+<div align="center" >  
+<a href='https://docs.google.com/presentation/d/1m8Qfzi8Ng-GPiuhlOYJNVRZwHA34gBwAfJ0iyh0l9_8/edit?usp=sharing'>
+<img src="MVC-Presentation.gif" alt="MVC Presentation" width="100%"/>
+</a>
+<br>
+<br>
+<p>
+<a href="https://docs.google.com/presentation/d/1m8Qfzi8Ng-GPiuhlOYJNVRZwHA34gBwAfJ0iyh0l9_8/edit?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/Presentation-blue"/>
+</a>
+</p>
+<p><strong>Google Slides</strong> - A presentation explaining Model, View, Controller architecture for large full stack applications. Presentation is MERN stack focused.</p>
 </div>
 </table>
 

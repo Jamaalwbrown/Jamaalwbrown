@@ -77,6 +77,25 @@
 </p>
 <p><strong>Google Slides</strong> - A presentation explaining Model, View, Controller architecture for large full stack applications. Presentation is MERN stack focused.</p>
 </div>
+
+<td width="50%">
+<h3 align="center" color="white">Word of Mouth</h3>
+<div align="center" >  
+<a href='#'>
+<img src="word-of-mouth.gif" alt="Word of Mouth" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/Jamaalwbrown/word-of-mouth" target="_blank">
+<img src="https://img.shields.io/badge/Code-032a5d??style=plastic&logo=github"/>
+</a>  
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
+</a>
+</p>
+<p><strong>Node.js, Express, MongoDB, EJS</strong> - Full-stack app in which users can post reviews and share them with close-knit communities like families, friends, or coworkers</p>
+</div>
 </table>
 
 <div align="center">

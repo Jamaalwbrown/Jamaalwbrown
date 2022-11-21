@@ -13,7 +13,7 @@
 <a href="https://twitter.com/jamaalbro90" target="_blank">
 <img src="https://img.shields.io/badge/@jamaalbro90-032a5d??style=plastic&logo=twitter"/>
 </a>
-<a href="www.linkedin.com/in/jamaal-brown-34531067" target="_blank">
+<a href="https://www.linkedin.com/in/jamaal-brown-34531067/" target="_blank">
 <img src="https://img.shields.io/badge/Jamaal_Brown-06809f??style=plastic&logo=linkedin"/>
 </a>
 <a href="mailto:jamaalbro09@gmail.com" target="_blank">
@@ -105,7 +105,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Jamaalwbrown&theme=prussian&show_icons=true)](https://git.io/streak-stats" alt="jamaalwbrown">
 </td>
 <td width="50%">
- <img src="https://github-readme-stats.vercel.app/api?username=Jamaalwbrown&theme=prussian&show_icons=true)](https://github.com/jamaalwbrown/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=Jamaalwbrown&theme=prussian&show_icons=true)](https://github.com/Jamaalwbrown/github-readme-stats">
 </table>
 </div>
 

@@ -90,7 +90,7 @@
 <a href="https://github.com/Jamaalwbrown/word-of-mouth" target="_blank">
 <img src="https://img.shields.io/badge/Code-032a5d??style=plastic&logo=github"/>
 </a>  
-<a href="#" target="_blank">
+<a href="https://word-of-mouth-site.herokuapp.com/" target="_blank">
 <img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
 </a>
 </p>

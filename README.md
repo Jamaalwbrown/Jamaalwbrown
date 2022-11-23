@@ -81,7 +81,7 @@
 <td width="50%">
 <h3 align="center" color="white">Word of Mouth</h3>
 <div align="center" >  
-<a href='#'>
+<a href='https://word-of-mouth-site.herokuapp.com/'>
 <img src="word-of-mouth.gif" alt="Word of Mouth" width="100%" />
 </a>
 <br>

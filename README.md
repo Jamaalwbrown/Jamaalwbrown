@@ -81,7 +81,7 @@
 <td width="50%">
 <h3 align="center" color="white">Word of Mouth</h3>
 <div align="center" >  
-<a href='https://word-of-mouth-site.herokuapp.com/'>
+<a href='https://word-of-mouth.up.railway.app/'>
 <img src="word-of-mouth.gif" alt="Word of Mouth" width="100%" />
 </a>
 <br>
@@ -90,7 +90,7 @@
 <a href="https://github.com/Jamaalwbrown/word-of-mouth" target="_blank">
 <img src="https://img.shields.io/badge/Code-032a5d??style=plastic&logo=github"/>
 </a>  
-<a href="https://word-of-mouth-site.herokuapp.com/" target="_blank">
+<a href="https://word-of-mouth.up.railway.app/" target="_blank">
 <img src="https://img.shields.io/badge/Website-blue??style=plastic"/>
 </a>
 </p>
